@@ -184,7 +184,7 @@
         </ul>
         ]]></change-notes>
 
-    <idea-version since-build="203.3645.34"/>
+    <idea-version since-build="202.7319.49"/>
     <depends>com.intellij.modules.platform</depends>
     <depends>com.intellij.modules.lang</depends>
     <depends>com.intellij.modules.xml</depends>
